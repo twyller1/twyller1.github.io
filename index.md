@@ -1,7 +1,7 @@
 # Hello World
 
 
-This is my home page! My name is Twyller Anderson and I am a student at [Cal State Fullerton](https://www.fullerton.edu) and my major is Copmuter Science.
+This is my home page! My name is Twyller Anderson and I am a student at [Cal State Fullerton](https://www.fullerton.edu) and my major is Computer Science.
 
 
 ## Computer Science Projects
